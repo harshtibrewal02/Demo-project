@@ -1,0 +1,31 @@
+/* By Pixels Method
+
+h1{
+    font-size: 54px;
+    color: purple;
+}
+
+p{
+    font-size: 36px;
+}
+
+li{
+    font-size: 44px;
+} 
+*/
+
+/*By Percentage method  100%=16px*/
+/* 1px=6.25%*/
+
+h1{
+    font-size:337.5% ;
+    color: purple;
+}
+
+p{
+    font-size: 36px;
+}
+
+li{
+    font-size: 44px;
+} 

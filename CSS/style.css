@@ -1,0 +1,27 @@
+/* Ctrl + / , for comment */
+
+/* HSL : hue: pure color , Saturation :*/
+
+
+h1{
+    color:#0000ff
+}
+/* use of class selector*/
+.para{
+    color:rgba(255, 0, 255, 1); /*a=alpha channel which is used for visiblity of text.:purest green (alpha=1)*/
+}
+/* use of id selector */
+#btn{
+    background-color: red;
+    color:white;
+
+}
+/* hover selector: can be used anywhere.*/
+#btn:hover{ 
+    background-color:black;
+    color: #ffffff;
+}
+h1:hover{
+    color: brown;
+}
+
